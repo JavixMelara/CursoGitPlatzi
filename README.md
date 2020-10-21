@@ -1,1 +1,2 @@
 # CursoGitPlatzi
+Un buen curso
