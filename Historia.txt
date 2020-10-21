@@ -13,8 +13,6 @@ y se gradua en mayo de 2020
 
 linea agregada despues de poner en staging area
 
-<<<<<<< HEAD
 hola
-=======
-antes de esta linea deberia ir un hola
->>>>>>> cambios
+
+Saludos
