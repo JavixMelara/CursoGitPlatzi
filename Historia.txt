@@ -27,4 +27,6 @@ otra linea.
 
 master 1
 
+master 2
+
 se añadio ssh.
