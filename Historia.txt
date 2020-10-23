@@ -1,24 +1,24 @@
-Esta es la historia de Javier Melara
+Esta es la historia de Javier Melara.
 
-Javier tiene 21 años y nació en El Salvador 
-en soyapango
+Javier tiene 21 años y nació en El Salvador .
+en soyapango.
 
-Hoy hablaremos de su historia
+Hoy hablaremos de su historia.
 
-Ya mero mero es ingeniero
+Ya mero mero es ingeniero.
 
-de la UDB
+de la UDB.
 
-y se gradua en mayo de 2020 ...>cambio en master
+y se gradua en mayo de 2020 ...>cambio en master.
 
-linea agregada despues de poner en staging area
+linea agregada despues de poner en staging area.
 
-hola
+hola.
 
-Saludos
+Saludos.
 
-linea agregada
+linea agregada.
 
-otra linea 
+otra linea.
 
-se añadio ssh
+se añadio ssh.
