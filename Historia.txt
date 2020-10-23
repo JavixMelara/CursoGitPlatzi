@@ -16,6 +16,8 @@ linea agregada despues de poner en staging area.
 experimento 1
 
 experimento 2
+------
+experimento 3
 
 hola.
 
